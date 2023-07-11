@@ -2,7 +2,6 @@
 ## Step
 There are several different methods. However, they have same effect.
 
-### method 1
 step 1:
 
 Select the file in 
