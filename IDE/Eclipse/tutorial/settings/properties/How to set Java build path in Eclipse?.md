@@ -40,6 +40,9 @@ step 6:
 Also don't forget to refresh the project (since in Eclipse it may NOT update and apply settings to project immediately).
 
 For more details, see "How to refresh in Eclipse?":
+
+https://github.com/40843245/IDE/blob/main/IDE/Eclipse/tutorial/settings/File/How%20to%20refresh%20in%20Eclipse%3F.md
+
 ## settings of Java Build path
 In libraries tab (Libraries), they can be editted for Module path (Modulepath) and Class path (ClassPath).
 
