@@ -31,6 +31,15 @@ in
 
 As shown in Fig.2, after step 3, by default, you will see the option "Java build path" in Properties (a window with title which starts with "Properties").
 
+step 5:
+
+After settings, don't forget to click "Apply and Close" button.
+
+step 6:
+
+Also don't forget to refresh the project (since in Eclipse it may NOT update and apply settings to project immediately).
+
+For more details, see "How to refresh in Eclipse?":
 ## settings of Java Build path
 In libraries tab (Libraries), they can be editted for Module path (Modulepath) and Class path (ClassPath).
 
