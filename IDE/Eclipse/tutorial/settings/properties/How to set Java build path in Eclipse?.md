@@ -5,7 +5,9 @@ There are several different methods. However, they have same effect.
 ### method 1
 step 1:
 
-Select the file in Project Explorer.
+Select the file in 
+    
+    Project Explorer.
 
 step 2: 
 
@@ -15,10 +17,29 @@ step 3:
 
 Select 
 
+    Build Path -> Configure Build Path
+
+step 4:
+
+Select 
+
+    Java Build path
+
+in 
+
+    Properties
+
+As shown in Fig.2, after step 3, by default, you will see the option "Java build path" in Properties (a window with title which starts with "Properties").
+
 ## screenshot
 
 ### For "Step"
+
+Figure.1
+
 ![image](https://github.com/40843245/IDE/assets/75050655/96c4904b-6815-4d3e-b241-6831499a7fc1)
+
+Figure.2
 
 ![image](https://github.com/40843245/IDE/assets/75050655/c7856c75-95a6-433e-9161-bde2912c1f11)
 
